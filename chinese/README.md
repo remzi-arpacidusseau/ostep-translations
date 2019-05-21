@@ -3,7 +3,7 @@
 
 Just testing (for now)...
 
-| intro   | virtualization | x        | concurrency | persistence | appendices |
+| intro   | virtualization |          | concurrency | persistence | appendices |
 | ------- | -------------- | -------- | ----------- | ----------- | ---------- |
 | preface | dialogue       | dialogue | dialogue    | dialogue    | dialogue   |
 
