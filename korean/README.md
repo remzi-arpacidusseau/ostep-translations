@@ -1,7 +1,13 @@
 
 # OSTEP (Korean Version)
 
+![Cover shot](http://www.hongpub.co.kr/product/20170327120039/20170327120039_m.jpg)
+
 Welcome to the Korean translation of OSTEP, v0.91. 
+
+Interested in buying?
+- [Hardcover](http://www.hongpub.co.kr/sub.php?goPage=view_product&flashpage=&Code=20170523160625)
+- [Softcover](http://www.hongpub.co.kr/sub.php?goPage=view_product&flashpage=&Code=20170327120039)
 
 
 | intro                                     | virtualization                                    |                                                      | concurrency                                             | persistence                                                 | 
