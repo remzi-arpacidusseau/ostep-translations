@@ -3,6 +3,9 @@
 
 Just testing (for now)...
 
-| intro   | virtualization |          | concurrency | persistence | appendices |
-| preface | dialogue       | dialogue | dialogue    | dialogue    | dialogue   | 
+| intro   | virtualization | x        | concurrency | persistence | appendices |
+| ------- | -------------- | -------- | ----------- | ----------- | ---------- |
+| preface | dialogue       | dialogue | dialogue    | dialogue    | dialogue   |
+
+ 
 
