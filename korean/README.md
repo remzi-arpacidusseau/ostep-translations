@@ -1,0 +1,25 @@
+
+# OSTEP (Korean Version)
+
+Welcome to the Korean translation of OSTEP, v0.91. 
+
+
+| intro                                     | virtualization                                    |                                                      | concurrency                                             | persistence                                                 | 
+| ----------------------------------------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | 
+| [Preface](00-preface.pdf)                 | 3 [Dialogue](03-dialogue-virtualization.pdf)      | 12 [Dialogue](12-dialogue-vm.pdf)                    | 25 [Dialogue](25_dialogue-concurrency.pdf)              | 35 [Dialogue                                                | 
+| [Preface-Translate](00-preface-tx.pdf)    | 4 [Processes](04-cpu-intro.pdf)                   | 13 [Address Spaces](13-vm-intro.pdf)                 | 26 [Concurrency and Threads](26_threads-intro.pdf)      | 36 [I/O Devices](36_file-devices.pdf)                       | 
+| [TOC](00-toc.pdf)                         | 5 [Process API](05-cpu-api.pdf)                   | 14 [Memory API](14-vm-api.pdf)                       | 27 [Thread API](27_threads-api.pdf)                     | 37 [Hard Disk Drives](37_file_disks.pdf)                    | 
+| 1 [Dialogue](01-dialogue-threeeasy.pdf)   | 6 [Direct Execution](06-cpu-mechanisms.pdf)       | 15 [Address Translation](15-vm-mechanism.pdf)        | 28 [Locks](28_threads-locks.pdf)                        | 38 [Redundant Disk Arrays (RAID)](38_RAID.pdf)              | 
+| 2 [Introduction](02-intro.pdf)            | 7 [CPU Scheduling](07-cpu-sched.pdf)              | 16 [Segmentation](16-vm-segmentation.pdf)            | 29 [Locked Data Structures](29_threads-locks-usage.pdf) | 39 [Files and Directories](39_interlude-file-directory.pdf) | 
+|                                           | 8 [Multi-level Feedback](08-cpu-sched-mlfq.pdf)   | 17 [Free Space Management](17-vm-freespace.pdf)      | 30 [Condition Variables](30_threads-cv.pdf)             | 40 [File System Implementation](40_FS-implementation.pdf)   | 
+|                                           | 9 [Lottery Scheduling](09-cpu-sched-lottery.pdf)  | 18 [Introduction to Paging](18-vm-paging.pdf)        | 31 [Semaphores](31_threads-sema.pdf)                    | 41 [Fast File System (FFS)](41_FFS.pdf)                     | 
+|                                           | 10 [Multi-CPU Scheduling](10-cpu-sched-multi.pdf) | 19 [Translation Lookaside Buffers](19_vm-tlbs.pdf)   | 32 [Concurrency Bugs](32_threads-bugs.pdf)              | 42 [FSCK and Journaling](42_crash-consistency.pdf)          | 
+|                                           | 11 [Summary](11-cpu-dialogue.pdf)                 | 20 [Advanced Page Tables](20_vm-smalltables.pdf)     | 33 [Event-based Concurrency](33_threads-events.pdf)     | 43 [Log-Structured File System (LFS)](43_LFS.pdf)           |
+|                                           |                                                   | 21 [Swapping: Mechanisms](21_vm-beyondphys.pdf)      | 34 [Summary](34_threads_dialogue.pdf)                   | 44 [Data Integrity and Protection](44_data-integrity.pdf)   |
+|                                           |                                                   | 22 [Swapping: Policies](22_vm-beyondphys-policy.pdf) |                                                         | 45 [Summary](45_file-dialogue.pdf)                          |
+|                                           |                                                   | 23 [Case Study: VAX](23_vm-vax.pdf)                  |                                                         | 46 [Dialogue](46_dialogue-distribution.pdf)                 |
+|                                           |                                                   | 24 [Summary](24_vm-dialogue.pdf)                     |                                                         | 47 [Distributed Systems](47_dist-intro.pdf)                 |
+|                                           |                                                   |                                                      |                                                         | 48 [Network File System (NFS)](48_NFS.pdf)                  |
+|                                           |                                                   |                                                      |                                                         | 49 [Andrew File System (AFS)](49_AFS.pdf)                   |
+|                                           |                                                   |                                                      |                                                         | 50 [Summary](50_dist-dialogue.pdf)                          |
+
