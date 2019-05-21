@@ -2,7 +2,7 @@
 # OSTEP (Korean Version)
 
 <p align="center">
-![Cover](cover.jpg)
+  <img src=cover.jpg/>
 </p>
 
 Welcome to the Korean translation of OSTEP, v0.91. 
