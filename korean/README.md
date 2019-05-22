@@ -6,6 +6,7 @@
 </p>
 
 Welcome to the Korean translation of OSTEP, v0.91. 
+Translation by Youjip Won, Minkyu Park, Sungjin Lee.
 
 Interested in buying?
 - [Hardcover](http://www.hongpub.co.kr/sub.php?goPage=view_product&flashpage=&Code=20170523160625)
