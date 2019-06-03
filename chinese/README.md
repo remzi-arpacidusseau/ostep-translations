@@ -1,6 +1,9 @@
 
 # OSTEP (Chinese Version)
 
+This is a chapter-by-chapter translation into Chinese of OSTEP (version 0.91).
+
+
 | intro           | virtualization          |                                  | concurrency                | persistence                         | appendices       |
 | --------------- | ----------------------- | -------------------------------- | -------------------------- | ----------------------------------- | ---------------- |
 | [Preface](http://ostep.org/Chinese/preface.pdf) | 3 [Dialogue](http://ostep.org/Chinese/03.pdf) | 12 [Dialogue](http://ostep.org/Chinese/12.pdf) | 25 [Dialogue](http://ostep.org/Chinese/25.pdf) | 35 [Dialogue](http://ostep.org/Chinese/35.pdf) | [Dialogue](http://ostep.org/Chinese/fla.pdf) | 
@@ -17,5 +20,5 @@
 |  |  | 23 [Complete VM Systems](http://ostep.org/Chinese/23.pdf) |  | 46 [Dialogue](http://ostep.org/Chinese/46.pdf) |  | 
 |  |  | 24 [Summary](http://ostep.org/Chinese/24.pdf) |  | 47 [Distributed Systems](http://ostep.org/Chinese/47.pdf) |  | 
 |  |  |  |  | 48 [Network File System (NFS)](http://ostep.org/Chinese/48.pdf) |  | 
-|  |  |  |  | 59 [Andrew File System (AFS)](http://ostep.org/Chinese/49.pdf) |  | 
+|  |  |  |  | 49 [Andrew File System (AFS)](http://ostep.org/Chinese/49.pdf) |  | 
 |  |  |  |  | 50 [Summary](http://ostep.org/Chinese/50.pdf) |  | 
